@@ -1,6 +1,5 @@
 from flask import Flask
 
-# create sample api
 app = Flask(__name__)
 
 
